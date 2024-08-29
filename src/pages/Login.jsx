@@ -58,6 +58,8 @@ const Login = () => {
             <form onSubmit={handleSubmit}>
                 <div className="my-5">
                     <p>Try with this user: test@test.com and password test123</p>
+                    <br>
+                    <p>Try with this user: test@test.com and password test123</p>
                     <label className="uppercase text-gray-600 block text-xl font-bold">
                         Email
                     </label>
