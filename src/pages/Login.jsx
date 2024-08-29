@@ -59,7 +59,7 @@ const Login = () => {
                 <div className="my-5">
                     <p>Try with this user: test@test.com and password test123</p>
                     <br>
-                    <p>Try with this user: test@test.com and password test123</p>
+                    <p>And be patience, the backend is with Render free service</p>
                     <label className="uppercase text-gray-600 block text-xl font-bold">
                         Email
                     </label>
